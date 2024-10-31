@@ -1,6 +1,6 @@
 # NLP Basics
 
-# Introduction to Natural Language Processing (NLP)
+## Introduction to Natural Language Processing (NLP)
 
 Natural Language Processing, or NLP, is a field within artificial intelligence (AI) that focuses on enabling machines to process, interpret, and even generate human language. NLP bridges the gap between human communication and computer understanding, allowing machines to interact with humans in ways that feel natural and intuitive. Through NLP, computers can perform tasks like responding to queries in chatbots, analyzing emotions in sentiment analysis, translating languages, summarizing documents, and much more.
 
